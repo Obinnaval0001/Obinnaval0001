@@ -52,5 +52,5 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 ---
 
-*Note: Replace `yourusername`, `yourprofile`, `yourhandle`, and `yourwebsite.com` with your actual GitHub username, LinkedIn profile URL, Twitter handle, and personal website URL, respectively.*
+
 
